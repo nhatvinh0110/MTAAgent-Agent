@@ -43,10 +43,6 @@ namespace ManagementCenter.GUI
         }
         private SqlConnection GetSqlConnection()
         {
-
-            //string con = Config_Helper.GetValue("CON", "");
-            ////return new SqlConnection(@"Data Source = DESKTOP-FSU3LJ4; Initial Catalog = MTAAgent; Persist Security Info = True; User ID = sa; Password = 12345; Connection Timeout = 20; MultipleActiveResultSets=True;");
-            //Console.WriteLine(con);
             return new SqlConnection(frmMain.con);
         }
 

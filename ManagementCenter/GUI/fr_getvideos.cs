@@ -7,15 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Windows.Forms;
+
 using System.Data.SqlClient;
 using System.IO;
 using System.Threading;
-using System.Threading.Tasks;
+
 using Common;
 using Common.CONFIG;
 using System.Diagnostics;
-using System.Threading.Tasks;
+
 
 namespace ManagementCenter.GUI
 {
@@ -33,43 +33,15 @@ namespace ManagementCenter.GUI
         {
             FolderBrowserDialog dlg = new FolderBrowserDialog();
             if (dlg.ShowDialog() == DialogResult.OK)
+            {
                 filePath.Text = dlg.SelectedPath;
+            }
             data_path = dlg.SelectedPath;
         }
-        void getfile(string curpath)
-        {
-
-            data_path = curpath;
-            if (File.Exists(data_path + "\\output.avi"))
-            {
-                File.Delete(data_path + "\\output.avi");
-            }
-
-            string src = Directory.GetCurrentDirectory() + "\\output.avi";
-            if (File.Exists(src))
-            {
-                File.Delete(src);
-            }
-            foreach (string filename in Directory.GetFiles(data_path))
-            {
-                input.Add(filename);
-            }
-            del();
-            foreach (var file in input)
-            {
-                File.Copy(file, $"Temp\\{Path.GetFileName(file)}");
-            }
-        }
-        void del()
-        {
-            foreach (var it in Directory.GetFiles(Directory.GetCurrentDirectory() + "\\Temp"))
-            {
-                File.Delete(it);
-            }
-
-        }
+        bool checkStop = false;
         void runCmdCommand(string command)
         {
+            int timeOut = 10000;
             System.Diagnostics.Process process = new System.Diagnostics.Process();
             System.Diagnostics.ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
 
@@ -77,8 +49,15 @@ namespace ManagementCenter.GUI
             startInfo.Arguments = $"/C {command}";
             startInfo.WindowStyle = ProcessWindowStyle.Hidden;
             process.StartInfo = startInfo;
+
             process.Start();
-            process.WaitForExit();
+
+            process.WaitForExit(timeOut);
+            if (process.HasExited == false)
+            {
+                if (process.Responding == false) process.Kill();
+                checkStop = true;
+            }
         }
         void mergeVideo(string cur_path)
         {
@@ -104,13 +83,9 @@ namespace ManagementCenter.GUI
                 }
             }
             runCmdCommand($"ffmpeg -f concat -safe 0 -i videos.txt -c copy {"\"" + cur_path + "\\" + "output.avi" + "\""}");
-
         }
         private SqlConnection GetSqlConnection()
         {
-            //string con = Config_Helper.GetValue("CON", "");
-            //return new SqlConnection(@"Data Source = DESKTOP-FSU3LJ4; Initial Catalog = MTAAgent; Persist Security Info = True; User ID = sa; Password = 12345; Connection Timeout = 20; MultipleActiveResultSets=True;");
-
             return new SqlConnection(frmMain.con);
         }
         public void Start_Get_Videos()
@@ -159,6 +134,7 @@ namespace ManagementCenter.GUI
                             string comuterID = row["ComputerID"].ToString();
                             string path_1 = @"" + choose_file_path;
                             string path = GetNameFoder(@"" + name_path);
+                            //path = ChuanHoa(path);
                             string Ten_may = GetTenMay(@"" + name_path);
                             if (!File.Exists(@"" + path_1 + @"\" + path + @"\" + Ten_may))
                             {
@@ -170,14 +146,21 @@ namespace ManagementCenter.GUI
                             {
                                 this_fr.textBox_contents.Text += (@"" + path_1 + @"\" + path + @"\" + Ten_may + @"\" + list.Length.ToString() + ".avi đã được lưu \r\n");
                             });
-                            string query2 = "UPDATE dbo.StatusVideoLog SET StatusVideo = '1' WHERE ComputerID = '" + comuterID + "'";
+                            string query2 = "UPDATE dbo.StatusVideoLog SET StatusVideo = '1' WHERE ComputerID = '" + comuterID + "' UPDATE dbo.StoreVideo SET NamePath = NULL, ContentVideo = NULL WHERE ComputerID = '"+ comuterID + "'";
                             using (SqlCommand cmd2 = new SqlCommand(query2, cn))
                             {
                                 cmd2.ExecuteNonQuery();
                             }
                         }
-                        catch (Exception E)
+                        catch (Exception e)
                         {
+                            
+                            string comuterID = row["ComputerID"].ToString();
+                            string query2 = "UPDATE dbo.StatusVideoLog SET StatusVideo = '1' WHERE ComputerID = '" + comuterID + "' UPDATE dbo.StoreVideo SET NamePath = NULL, ContentVideo = NULL WHERE ComputerID = '" + comuterID + "'";
+                            using (SqlCommand cmd2 = new SqlCommand(query2, cn))
+                            {
+                                cmd2.ExecuteNonQuery();
+                            }
                             continue;
                         }
                     }
@@ -242,6 +225,11 @@ namespace ManagementCenter.GUI
 
 
         }
+        public string ChuanHoa(string namepath)
+        {
+            namepath = namepath.Replace(" ", "_");
+            return namepath;
+        }
 
         private void button_getVideos_Click(object sender, EventArgs e)
         {
@@ -276,44 +264,64 @@ namespace ManagementCenter.GUI
                     this.button_stop.Enabled = true;
                 });
             });
-            //getVd.IsBackground = true;
+            getVd.IsBackground = true;
             getVd.Start();
 
         }
 
         private void buttonMerge_Click(object sender, EventArgs e)
         {
-            foreach (var it3 in Directory.GetDirectories(filePath.Text))
+            buttonMerge.Enabled = false;
+            buttonMerge.Text = "Đang ghép";
+
+            Thread T = new Thread(() =>
             {
-
-                foreach (var it2 in Directory.GetDirectories(it3))
+                foreach (var it3 in Directory.GetDirectories(filePath.Text))
                 {
-                    if (Directory.EnumerateFiles(it2, "*.avi").Count() >= 2)
+
+                    foreach (var it2 in Directory.GetDirectories(it3))
                     {
-
-
-
-                        buttonMerge.Enabled = false;
-                        buttonMerge.Text = "Đang ghép";
-                        textBox_contents.Text += "Đang ghép" + it2.ToString() + "\r\n";
-
-                        Thread T = new Thread(() =>
+                        if (Directory.EnumerateFiles(it2, "*.avi").Count() >= 2)
                         {
+                            textBox_contents.BeginInvoke((MethodInvoker)delegate ()
+                            {
+                                textBox_contents.Text += "Đang ghép" + it2.ToString() + "\r\n";
+
+                            });
+
                             mergeVideo(it2);
+                            input.Clear();
 
-                        });
-                        T.IsBackground = true;
-                        T.Start();
-                        T.Join();
-                        buttonMerge.Enabled = true;
-                        buttonMerge.Text = "Ghép video";
+                        }
                     }
+                }
+                if (checkStop == true)
+                {
+                    textBox_contents.BeginInvoke((MethodInvoker)delegate ()
+                    {
+                        textBox_contents.Text += "Có lỗi trong quá trình ghép \r\n";
+                    });
+                }
+                else
+                {
+                    textBox_contents.BeginInvoke((MethodInvoker)delegate ()
+                    {
+                        textBox_contents.Text += "Ghép xong \r\n";
 
-                    input.Clear();
+                    });
                 }
 
-            }
-            textBox_contents.Text += "Ghép xong \r\n";
+                buttonMerge.BeginInvoke((MethodInvoker)delegate ()
+                {
+                    buttonMerge.Enabled = true;
+                    buttonMerge.Text = "Ghép video";
+
+                });
+
+
+            });
+            T.Start();
+
         }
 
         private void labelX2_Click(object sender, EventArgs e)

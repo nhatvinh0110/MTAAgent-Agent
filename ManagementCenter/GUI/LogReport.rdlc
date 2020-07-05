@@ -12,7 +12,7 @@
                 <Value>HỌC VIỆN KỸ THUẬT QUÂN SỰ</Value>
                 <Style>
                   <FontSize>12pt</FontSize>
-                  <FontWeight>Normal</FontWeight>
+                  <FontWeight>Bold</FontWeight>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -20,6 +20,8 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox2</rd:DefaultName>
+        <Top>0.10833in</Top>
+        <Left>0.34167in</Left>
         <Height>0.25in</Height>
         <Width>2.56666in</Width>
         <Style>
@@ -112,8 +114,8 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox7</rd:DefaultName>
-        <Top>0.26389in</Top>
-        <Left>0.72in</Left>
+        <Top>0.35833in</Top>
+        <Left>0.92499in</Left>
         <Height>0.25in</Height>
         <Width>1.05833in</Width>
         <ZIndex>3</ZIndex>
@@ -231,7 +233,7 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>Số báo danh:        </Value>
+                <Value>Số báo danh:         </Value>
                 <Style>
                   <FontSize>12pt</FontSize>
                 </Style>
@@ -248,7 +250,7 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>Họ và tên thí sinh: </Value>
+                <Value>Họ và tên thí sinh:  </Value>
                 <Style>
                   <FontSize>12pt</FontSize>
                 </Style>
@@ -299,7 +301,7 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>Phòng thi:             </Value>
+                <Value>Phòng thi:              </Value>
                 <Style>
                   <FontSize>12pt</FontSize>
                 </Style>
@@ -308,6 +310,24 @@
                 <Value>=First(Fields!RoomTest.Value, "InfoContestant")</Value>
                 <Style>
                   <FontSize>12pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Ngày thi:                </Value>
+                <Style>
+                  <FontSize>12pt</FontSize>
+                </Style>
+              </TextRun>
+              <TextRun>
+                <Value>=First(Fields!TestDate.Value, "InfoContestant")</Value>
+                <Style>
+                  <FontSize>12pt</FontSize>
+                  <Format>dd/MM/yyyy</Format>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -338,7 +358,10 @@
             <TextRuns>
               <TextRun>
                 <Value>Người xuất lịch sử</Value>
-                <Style />
+                <Style>
+                  <FontSize>12pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
               </TextRun>
             </TextRuns>
             <Style />
@@ -346,9 +369,9 @@
         </Paragraphs>
         <rd:DefaultName>Textbox11</rd:DefaultName>
         <Top>5.95833in</Top>
-        <Left>7.13333in</Left>
+        <Left>7.78in</Left>
         <Height>0.25in</Height>
-        <Width>1.28333in</Width>
+        <Width>1.67667in</Width>
         <ZIndex>7</ZIndex>
         <Style>
           <Border>
@@ -368,7 +391,10 @@
             <TextRuns>
               <TextRun>
                 <Value>Người phúc tra</Value>
-                <Style />
+                <Style>
+                  <FontSize>12pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
               </TextRun>
             </TextRuns>
             <Style />
@@ -376,9 +402,9 @@
         </Paragraphs>
         <rd:DefaultName>Textbox12</rd:DefaultName>
         <Top>5.95833in</Top>
-        <Left>0.52611in</Left>
+        <Left>0.89458in</Left>
         <Height>0.25in</Height>
-        <Width>1in</Width>
+        <Width>1.64389in</Width>
         <ZIndex>8</ZIndex>
         <Style>
           <Border>
@@ -397,8 +423,11 @@
           <Paragraph>
             <TextRuns>
               <TextRun>
-                <Value>Trương phòng khảo thí</Value>
-                <Style />
+                <Value>Trưởng phòng khảo thí</Value>
+                <Style>
+                  <FontSize>12pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
               </TextRun>
             </TextRuns>
             <Style />
@@ -406,9 +435,9 @@
         </Paragraphs>
         <rd:DefaultName>Textbox13</rd:DefaultName>
         <Top>5.95833in</Top>
-        <Left>3.89166in</Left>
+        <Left>4.53333in</Left>
         <Height>0.25in</Height>
-        <Width>1.45833in</Width>
+        <Width>2.06931in</Width>
         <ZIndex>9</ZIndex>
         <Style>
           <Border>
@@ -435,7 +464,7 @@
           </TablixColumns>
           <TablixRows>
             <TablixRow>
-              <Height>0.91146in</Height>
+              <Height>0.33646in</Height>
               <TablixCells>
                 <TablixCell>
                   <CellContents>
@@ -446,8 +475,11 @@
                         <Paragraph>
                           <TextRuns>
                             <TextRun>
-                              <Value>time</Value>
-                              <Style />
+                              <Value>Thời gian</Value>
+                              <Style>
+                                <FontSize>12pt</FontSize>
+                                <FontWeight>Bold</FontWeight>
+                              </Style>
                             </TextRun>
                           </TextRuns>
                           <Style>
@@ -478,8 +510,11 @@
                         <Paragraph>
                           <TextRuns>
                             <TextRun>
-                              <Value>event Type</Value>
-                              <Style />
+                              <Value>Loại sự kiện </Value>
+                              <Style>
+                                <FontSize>12pt</FontSize>
+                                <FontWeight>Bold</FontWeight>
+                              </Style>
                             </TextRun>
                           </TextRuns>
                           <Style>
@@ -510,8 +545,11 @@
                         <Paragraph>
                           <TextRuns>
                             <TextRun>
-                              <Value>description</Value>
-                              <Style />
+                              <Value>Mô tả</Value>
+                              <Style>
+                                <FontSize>12pt</FontSize>
+                                <FontWeight>Bold</FontWeight>
+                              </Style>
                             </TextRun>
                           </TextRuns>
                           <Style>
@@ -652,7 +690,7 @@
         <DataSetName>DataSetDetailLog</DataSetName>
         <Top>3.85292in</Top>
         <Left>0.89458in</Left>
-        <Height>1.82292in</Height>
+        <Height>1.24792in</Height>
         <Width>8.56209in</Width>
         <ZIndex>10</ZIndex>
         <Style>

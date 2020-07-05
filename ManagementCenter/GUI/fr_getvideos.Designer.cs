@@ -133,7 +133,7 @@ namespace ManagementCenter.GUI
             this.button_setting.ImageTextSpacing = 5;
             this.button_setting.Location = new System.Drawing.Point(1102, 28);
             this.button_setting.Name = "button_setting";
-            this.button_setting.Size = new System.Drawing.Size(33, 25);
+            this.button_setting.Size = new System.Drawing.Size(33, 35);
             this.button_setting.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
             this.button_setting.Symbol = "";
             this.button_setting.SymbolSize = 13F;
