@@ -1,0 +1,170 @@
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\log4net.config
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Common.dll.config
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Common.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Common.pdb
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Ionic.Zip.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\log4net.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Newtonsoft.Json.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Renci.SshNet.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\SimpleWifi.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\log4net.xml
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Newtonsoft.Json.xml
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Renci.SshNet.xml
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\obj\Debug\Common.csproj.CopyComplete
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\obj\Debug\Common.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\obj\Debug\Common.pdb
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\log4net.config
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Common.dll.config
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Common.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Common.pdb
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Ionic.Zip.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\log4net.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Newtonsoft.Json.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Renci.SshNet.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\SimpleWifi.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\log4net.xml
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Newtonsoft.Json.xml
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Renci.SshNet.xml
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\obj\Debug\Common.csproj.CopyComplete
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\obj\Debug\Common.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\obj\Debug\Common.pdb
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\obj\Debug\Common.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\obj\Debug\Common.pdb
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\log4net.config
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Common.dll.config
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Common.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Common.pdb
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Ionic.Zip.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\log4net.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Newtonsoft.Json.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Renci.SshNet.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\SimpleWifi.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\log4net.xml
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Newtonsoft.Json.xml
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\bin\Debug\Renci.SshNet.xml
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\obj\Debug\Common.csproj.CopyComplete
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\bin\Debug\log4net.config
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\bin\Debug\Common.dll.config
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\bin\Debug\Common.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\bin\Debug\Common.pdb
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\bin\Debug\Ionic.Zip.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\bin\Debug\log4net.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\bin\Debug\Newtonsoft.Json.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\bin\Debug\Renci.SshNet.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\bin\Debug\SimpleWifi.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\bin\Debug\log4net.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\bin\Debug\Newtonsoft.Json.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\bin\Debug\Renci.SshNet.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\obj\Debug\Common.csproj.CopyComplete
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\obj\Debug\Common.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\obj\Debug\Common.pdb
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\Common\bin\Debug\log4net.config
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\Common\bin\Debug\Common.dll.config
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\Common\bin\Debug\Common.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\Common\bin\Debug\Common.pdb
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\Common\bin\Debug\Ionic.Zip.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\Common\bin\Debug\log4net.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\Common\bin\Debug\Newtonsoft.Json.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\Common\bin\Debug\Renci.SshNet.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\Common\bin\Debug\SimpleWifi.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\Common\bin\Debug\log4net.xml
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\Common\bin\Debug\Newtonsoft.Json.xml
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\Common\bin\Debug\Renci.SshNet.xml
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\Common\obj\Debug\Common.csproj.CopyComplete
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\Common\obj\Debug\Common.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\Common\obj\Debug\Common.pdb
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\log4net.config
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Common.dll.config
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Common.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Common.pdb
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Ionic.Zip.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\log4net.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Newtonsoft.Json.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Renci.SshNet.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\SimpleWifi.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\log4net.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Newtonsoft.Json.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Renci.SshNet.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.csproj.CopyComplete
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.pdb
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\TAI LIEU HOC\TTN\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\log4net.config
+D:\TAI LIEU HOC\TTN\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Common.dll.config
+D:\TAI LIEU HOC\TTN\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Common.dll
+D:\TAI LIEU HOC\TTN\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Common.pdb
+D:\TAI LIEU HOC\TTN\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Ionic.Zip.dll
+D:\TAI LIEU HOC\TTN\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\log4net.dll
+D:\TAI LIEU HOC\TTN\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Newtonsoft.Json.dll
+D:\TAI LIEU HOC\TTN\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Renci.SshNet.dll
+D:\TAI LIEU HOC\TTN\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\SimpleWifi.dll
+D:\TAI LIEU HOC\TTN\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\log4net.xml
+D:\TAI LIEU HOC\TTN\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Newtonsoft.Json.xml
+D:\TAI LIEU HOC\TTN\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Renci.SshNet.xml
+D:\TAI LIEU HOC\TTN\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\TAI LIEU HOC\TTN\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\TAI LIEU HOC\TTN\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.csproj.CopyComplete
+D:\TAI LIEU HOC\TTN\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.dll
+D:\TAI LIEU HOC\TTN\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.pdb
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\log4net.config
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Common.dll.config
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Common.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Common.pdb
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Ionic.Zip.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\log4net.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Newtonsoft.Json.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Renci.SshNet.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\SimpleWifi.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\log4net.xml
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Newtonsoft.Json.xml
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Renci.SshNet.xml
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.csproj.CopyComplete
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.pdb
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\log4net.config
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Common.dll.config
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Common.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Common.pdb
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Ionic.Zip.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\log4net.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Newtonsoft.Json.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Renci.SshNet.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\SimpleWifi.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\log4net.xml
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Newtonsoft.Json.xml
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Renci.SshNet.xml
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.csproj.CopyComplete
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.pdb
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\Common\bin\Debug\log4net.config
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Common.dll.config
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Common.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Common.pdb
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Ionic.Zip.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\Common\bin\Debug\log4net.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Newtonsoft.Json.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Renci.SshNet.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\Common\bin\Debug\SimpleWifi.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\Common\bin\Debug\log4net.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Newtonsoft.Json.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\Common\bin\Debug\Renci.SshNet.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.csproj.CopyComplete
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\Common\obj\Debug\Common.pdb

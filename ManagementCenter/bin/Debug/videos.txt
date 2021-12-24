@@ -1,0 +1,3 @@
+file 'C:\Users\Vostro 5568\Desktop\test\LXDP.004_Dự Phòng 4_05-07-2020_7.00-8.20_Toán_P2\KUROO\0.avi'
+file 'C:\Users\Vostro 5568\Desktop\test\LXDP.004_Dự Phòng 4_05-07-2020_7.00-8.20_Toán_P2\KUROO\1.avi'
+file 'C:\Users\Vostro 5568\Desktop\test\LXDP.004_Dự Phòng 4_05-07-2020_7.00-8.20_Toán_P2\KUROO\2.avi'

@@ -1,0 +1,441 @@
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avcodec-53.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avcodec-57.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avdevice-53.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avdevice-57.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avfilter-2.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avfilter-6.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avformat-53.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avformat-57.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avutil-51.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avutil-55.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\postproc-52.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\postproc-54.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swresample-0.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swresample-2.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swscale-2.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swscale-4.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Video_32.ico
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.dll.config
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\ScreenRecord.exe.config
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\ScreenRecord.exe
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\ScreenRecord.pdb
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.FFMPEG.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\AForge.Video.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\AForge.Video.FFMPEG.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.xml
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.xml
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.FFMPEG.xml
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.AssemblyReference.cache
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.frmMain.resources
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.Properties.Resources.resources
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.GenerateResource.cache
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.CoreCompileInputs.cache
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.CopyComplete
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.exe
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.pdb
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Common.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\SimpleWifi.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\log4net.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Ionic.Zip.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Renci.SshNet.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Newtonsoft.Json.dll
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Common.pdb
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Common.dll.config
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\log4net.xml
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Renci.SshNet.xml
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Newtonsoft.Json.xml
+E:\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\log4net.config
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\log4net.config
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avcodec-53.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avcodec-57.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avdevice-53.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avdevice-57.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avfilter-2.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avfilter-6.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avformat-53.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avformat-57.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avutil-51.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avutil-55.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\postproc-52.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\postproc-54.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swresample-0.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swresample-2.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swscale-2.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swscale-4.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Video_32.ico
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.dll.config
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\ScreenRecord.exe.config
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\ScreenRecord.exe
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\ScreenRecord.pdb
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.FFMPEG.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\AForge.Video.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\AForge.Video.FFMPEG.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Common.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\log4net.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\SimpleWifi.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Ionic.Zip.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Renci.SshNet.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Newtonsoft.Json.dll
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Common.pdb
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Common.dll.config
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.xml
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.xml
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.FFMPEG.xml
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\log4net.xml
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Renci.SshNet.xml
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Newtonsoft.Json.xml
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.AssemblyReference.cache
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.frmMain.resources
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.Properties.Resources.resources
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.GenerateResource.cache
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.CoreCompileInputs.cache
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.CopyComplete
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.exe
+E:\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.pdb
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\log4net.config
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avcodec-53.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avcodec-57.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avdevice-53.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avdevice-57.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avfilter-2.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avfilter-6.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avformat-53.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avformat-57.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avutil-51.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avutil-55.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\postproc-52.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\postproc-54.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swresample-0.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swresample-2.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swscale-2.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swscale-4.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Video_32.ico
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.dll.config
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\ScreenRecord.exe.config
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\ScreenRecord.exe
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\ScreenRecord.pdb
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.FFMPEG.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\AForge.Video.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\AForge.Video.FFMPEG.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Common.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\log4net.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\SimpleWifi.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Ionic.Zip.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Renci.SshNet.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Newtonsoft.Json.dll
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Common.pdb
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Common.dll.config
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.xml
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.xml
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.FFMPEG.xml
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\log4net.xml
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Renci.SshNet.xml
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Newtonsoft.Json.xml
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.AssemblyReference.cache
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.frmMain.resources
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.Properties.Resources.resources
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.GenerateResource.cache
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.CoreCompileInputs.cache
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.CopyComplete
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.exe
+D:\TAI LIEU HOC\TTN\MtaAgent1.4.0\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.pdb
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\log4net.config
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avcodec-53.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avdevice-53.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avfilter-2.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avformat-53.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avutil-51.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\postproc-52.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swresample-0.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swscale-2.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Video_32.ico
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avcodec-57.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avdevice-57.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avfilter-6.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avformat-57.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avutil-55.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\postproc-54.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swresample-2.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swscale-4.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.dll.config
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\ScreenRecord.exe.config
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\ScreenRecord.exe
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\ScreenRecord.pdb
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.FFMPEG.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\AForge.Video.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\AForge.Video.FFMPEG.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Common.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\log4net.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\SimpleWifi.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Ionic.Zip.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Renci.SshNet.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Newtonsoft.Json.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Common.pdb
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Common.dll.config
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.FFMPEG.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\log4net.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Renci.SshNet.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Newtonsoft.Json.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csprojAssemblyReference.cache
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.frmMain.resources
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.Properties.Resources.resources
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.GenerateResource.cache
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.CoreCompileInputs.cache
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.CopyComplete
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.exe
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.pdb
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\log4net.config
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avcodec-53.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avdevice-53.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avfilter-2.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avformat-53.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avutil-51.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\postproc-52.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swresample-0.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swscale-2.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Video_32.ico
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avcodec-57.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avdevice-57.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avfilter-6.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avformat-57.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\avutil-55.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\postproc-54.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swresample-2.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\swscale-4.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.dll.config
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\ScreenRecord.exe.config
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\ScreenRecord.exe
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\ScreenRecord.pdb
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.FFMPEG.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\AForge.Video.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\AForge.Video.FFMPEG.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Common.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\log4net.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\SimpleWifi.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Ionic.Zip.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Renci.SshNet.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Newtonsoft.Json.dll
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Common.pdb
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Common.dll.config
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.xml
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.xml
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Accord.Video.FFMPEG.xml
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\log4net.xml
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Renci.SshNet.xml
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\bin\Debug\Newtonsoft.Json.xml
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.AssemblyReference.cache
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.frmMain.resources
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.Properties.Resources.resources
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.GenerateResource.cache
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.CoreCompileInputs.cache
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.csproj.CopyComplete
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.exe
+D:\TAI LIEU HOC\TTN\TTN_MOI\MTAAgent-Agent_Cus\ScreenRecord\obj\Debug\ScreenRecord.pdb
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\log4net.config
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avcodec-53.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avcodec-57.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avdevice-53.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avdevice-57.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avfilter-2.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avfilter-6.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avformat-53.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avformat-57.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avutil-51.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avutil-55.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\postproc-52.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\postproc-54.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\swresample-0.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\swresample-2.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\swscale-2.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\swscale-4.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Video_32.ico
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.dll.config
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\ScreenRecord.exe.config
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\ScreenRecord.exe
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\ScreenRecord.pdb
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.Video.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.Video.FFMPEG.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\AForge.Video.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\AForge.Video.FFMPEG.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Common.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\log4net.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\SimpleWifi.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Ionic.Zip.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Renci.SshNet.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Newtonsoft.Json.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Common.pdb
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Common.dll.config
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.Video.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.Video.FFMPEG.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\log4net.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Renci.SshNet.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Newtonsoft.Json.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.csprojAssemblyReference.cache
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.frmMain.resources
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.Properties.Resources.resources
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.csproj.GenerateResource.cache
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.csproj.CoreCompileInputs.cache
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.csproj.CopyComplete
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.exe
+D:\dulieu\hoctap\Nam_4\TT_Nhom\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.pdb
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\log4net.config
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avcodec-53.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avdevice-53.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avfilter-2.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avformat-53.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avutil-51.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\postproc-52.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\swresample-0.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\swscale-2.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Video_32.ico
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avcodec-57.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avdevice-57.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avfilter-6.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avformat-57.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avutil-55.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\postproc-54.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\swresample-2.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\swscale-4.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.dll.config
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\ScreenRecord.exe.config
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\ScreenRecord.exe
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\ScreenRecord.pdb
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.Video.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.Video.FFMPEG.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\AForge.Video.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\AForge.Video.FFMPEG.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Common.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\log4net.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\SimpleWifi.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Ionic.Zip.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Renci.SshNet.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Newtonsoft.Json.dll
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Common.pdb
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Common.dll.config
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.xml
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.Video.xml
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.Video.FFMPEG.xml
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\log4net.xml
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Renci.SshNet.xml
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Newtonsoft.Json.xml
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.csproj.AssemblyReference.cache
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.frmMain.resources
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.Properties.Resources.resources
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.csproj.GenerateResource.cache
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.csproj.CoreCompileInputs.cache
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.csproj.CopyComplete
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.exe
+E:\TTN\9122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.pdb
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\log4net.config
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avcodec-53.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avdevice-53.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avfilter-2.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avformat-53.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avutil-51.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\postproc-52.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\swresample-0.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\swscale-2.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Video_32.ico
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avcodec-57.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avdevice-57.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avfilter-6.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avformat-57.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avutil-55.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\postproc-54.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\swresample-2.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\swscale-4.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.dll.config
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\ScreenRecord.exe.config
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\ScreenRecord.exe
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\ScreenRecord.pdb
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.Video.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.Video.FFMPEG.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\AForge.Video.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\AForge.Video.FFMPEG.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Common.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\log4net.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\SimpleWifi.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Ionic.Zip.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Renci.SshNet.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Newtonsoft.Json.dll
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Common.pdb
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Common.dll.config
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.xml
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.Video.xml
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.Video.FFMPEG.xml
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\log4net.xml
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Renci.SshNet.xml
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Newtonsoft.Json.xml
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.csproj.AssemblyReference.cache
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.frmMain.resources
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.Properties.Resources.resources
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.csproj.GenerateResource.cache
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.csproj.CoreCompileInputs.cache
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.csproj.CopyComplete
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.exe
+E:\TTN\10122021\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.pdb
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\log4net.config
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avcodec-53.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avdevice-53.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avfilter-2.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avformat-53.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avutil-51.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\postproc-52.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\swresample-0.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\swscale-2.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Video_32.ico
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avcodec-57.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avdevice-57.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avfilter-6.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avformat-57.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\avutil-55.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\postproc-54.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\swresample-2.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\swscale-4.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.dll.config
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\ScreenRecord.exe.config
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\ScreenRecord.exe
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\ScreenRecord.pdb
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.Video.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.Video.FFMPEG.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\AForge.Video.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\AForge.Video.FFMPEG.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Common.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\log4net.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\SimpleWifi.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Ionic.Zip.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Renci.SshNet.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Newtonsoft.Json.dll
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Common.pdb
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Common.dll.config
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.Video.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Accord.Video.FFMPEG.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\log4net.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Renci.SshNet.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\bin\Debug\Newtonsoft.Json.xml
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.csprojAssemblyReference.cache
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.frmMain.resources
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.Properties.Resources.resources
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.csproj.GenerateResource.cache
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.csproj.CoreCompileInputs.cache
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.csproj.CopyComplete
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.exe
+D:\dulieu\hoctap\Nam_4\TT_Nhom\thi\MTAAgent-Agent_Cus_1207\ScreenRecord\obj\Debug\ScreenRecord.pdb

@@ -1,0 +1,42 @@
+2021-11-29 19:31:00,144: [DESKTOP-FSU3LJ4] - ERROR - Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\MTAAgent' is denied.
+System.UnauthorizedAccessException: Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\MTAAgent' is denied.
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at Common.REGISTRY.Registry_Helper.Read_Value(String path, String Name) in D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\Registry_Helper.cs:line 20
+   at WS_Agent.WS_Agent.OnStart(String[] args) in D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\WS_Agent\WS_Agent.cs:line 144
+2021-11-29 19:41:47,684: [DESKTOP-FSU3LJ4] - ERROR - Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\MTAAgent' is denied.
+System.UnauthorizedAccessException: Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\MTAAgent' is denied.
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at Common.REGISTRY.Registry_Helper.Read_Value(String path, String Name) in D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\Registry_Helper.cs:line 20
+   at WS_Agent.WS_Agent.OnStart(String[] args) in D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\WS_Agent\WS_Agent.cs:line 144
+2021-11-29 19:46:57,201: [DESKTOP-FSU3LJ4] - ERROR - Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\MTAAgent' is denied.
+System.UnauthorizedAccessException: Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\MTAAgent' is denied.
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at Common.REGISTRY.Registry_Helper.Read_Value(String path, String Name) in D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\Registry_Helper.cs:line 20
+   at WS_Agent.WS_Agent.OnStart(String[] args) in D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\WS_Agent\WS_Agent.cs:line 144
+2021-11-29 19:49:02,879: [DESKTOP-FSU3LJ4] - ERROR - Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\MTAAgent' is denied.
+System.UnauthorizedAccessException: Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\MTAAgent' is denied.
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at Common.REGISTRY.Registry_Helper.Read_Value(String path, String Name) in D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\Registry_Helper.cs:line 20
+   at WS_Agent.WS_Agent.OnStart(String[] args) in D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\WS_Agent\WS_Agent.cs:line 144
+2021-11-29 19:49:37,269: [DESKTOP-FSU3LJ4] - ERROR - Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\MTAAgent' is denied.
+System.UnauthorizedAccessException: Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\MTAAgent' is denied.
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at Common.REGISTRY.Registry_Helper.Read_Value(String path, String Name) in D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\Registry_Helper.cs:line 20
+   at WS_Agent.WS_Agent.OnStart(String[] args) in D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\WS_Agent\WS_Agent.cs:line 144
+2021-11-29 19:51:18,157: [DESKTOP-FSU3LJ4] - ERROR - Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\MTAAgent' is denied.
+System.UnauthorizedAccessException: Access to the registry key 'HKEY_LOCAL_MACHINE\SOFTWARE\MTAAgent' is denied.
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at Common.REGISTRY.Registry_Helper.Read_Value(String path, String Name) in D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\Common\Registry_Helper.cs:line 20
+   at WS_Agent.WS_Agent.OnStart(String[] args) in D:\dulieu\hoctap\Nam_4\TT_Nhom\MtaAgent1.4.0_N16-11-21\MTAAgent-Agent_Cus\WS_Agent\WS_Agent.cs:line 144
